@@ -8,7 +8,6 @@
         url('../ArchyEDT-Thin.svg#ArchyEDT-Thin') format('svg');
     font-weight: 100;
     font-style: normal;
-    font-display: swap;
 }
 @font-face {
     font-family: 'Pierre Dingbats';
@@ -20,5 +19,4 @@
         url('../ZapfDingbats.svg#ZapfDingbats') format('svg');
     font-weight: 100;
     font-style: normal;
-    font-display: swap;
 
